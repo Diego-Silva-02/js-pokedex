@@ -58,10 +58,14 @@ h1 {
 }
 
 .electric {
-	background-color: #FCF7DE;
+	background-color: #f7ed99;
 }
 
-.water, .ice {
+.water {
+	background-color: #9fd9f5;
+} 
+
+.ice {
 	background-color: #DEF3FD;
 }
 
@@ -70,7 +74,7 @@ h1 {
 }
 
 .rock {
-	background-color: #d5d5d4;
+	background-color: #dba484;
 }
 
 .fairy {
@@ -79,6 +83,14 @@ h1 {
 
 .poison {
 	background-color: #98d7a5;
+}
+
+.ghost {
+	background-color: #8d81c9;
+}
+
+.dark {
+	background-color: #989898;
 }
 
 .bug {
@@ -90,7 +102,7 @@ h1 {
 }
 
 .psychic {
-	background-color: #eaeda1;
+	background-color: #ffcffd;
 }
 
 .flying {
@@ -98,7 +110,7 @@ h1 {
 }
 
 .fighting {
-	background-color: #E6E0D4;
+	background-color: #ffb67a;
 }
 
 .normal {
